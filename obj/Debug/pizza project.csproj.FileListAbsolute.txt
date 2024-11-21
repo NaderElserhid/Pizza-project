@@ -1,0 +1,11 @@
+C:\Users\nadir\OneDrive\Desktop\C#\.Net framword and C# implementtions\pizza project\bin\Debug\pizza project.exe.config
+C:\Users\nadir\OneDrive\Desktop\C#\.Net framword and C# implementtions\pizza project\bin\Debug\pizza project.exe
+C:\Users\nadir\OneDrive\Desktop\C#\.Net framword and C# implementtions\pizza project\bin\Debug\pizza project.pdb
+C:\Users\nadir\OneDrive\Desktop\C#\.Net framword and C# implementtions\pizza project\obj\Debug\pizza project.csproj.AssemblyReference.cache
+C:\Users\nadir\OneDrive\Desktop\C#\.Net framword and C# implementtions\pizza project\obj\Debug\pizza_project.Form1.resources
+C:\Users\nadir\OneDrive\Desktop\C#\.Net framword and C# implementtions\pizza project\obj\Debug\pizza_project.Properties.Resources.resources
+C:\Users\nadir\OneDrive\Desktop\C#\.Net framword and C# implementtions\pizza project\obj\Debug\pizza project.csproj.GenerateResource.cache
+C:\Users\nadir\OneDrive\Desktop\C#\.Net framword and C# implementtions\pizza project\obj\Debug\pizza project.csproj.CoreCompileInputs.cache
+C:\Users\nadir\OneDrive\Desktop\C#\.Net framword and C# implementtions\pizza project\obj\Debug\pizza project.exe
+C:\Users\nadir\OneDrive\Desktop\C#\.Net framword and C# implementtions\pizza project\obj\Debug\pizza project.pdb
+C:\Users\nadir\OneDrive\Desktop\C#\.Net framword and C# implementtions\pizza project\obj\Debug\pizza_project.placeOreder.resources
